@@ -101,6 +101,7 @@ input:focus::placeholder {
   top: 0;
   margin-top: 1rem;
   overflow-wrap: break-word;
+  text-transform: uppercase;
 }
 
 .meme #bottom-text {
@@ -109,6 +110,7 @@ input:focus::placeholder {
   bottom: 0;
   margin-bottom: 1rem;
   overflow-wrap: break-word;
+  text-transform: uppercase;
 }
 
 .meme img {
